@@ -1,0 +1,16 @@
+{
+    "lessons": [
+      {
+        "title": "Basic Greetings",
+        "content": "שלום = hello\nמה שלומך = how are you\nלהתראות = goodbye"
+      },
+      {
+        "title": "Asking If Someone Is Free",
+        "content": "Male: אתה פנוי?\nFemale: את פנויה?"
+      },
+      {
+        "title": "Calling Someone Later",
+        "content": "אני אתקשר אליך אחר כך = I will call you later (male)\nאני אתקשר אלייך אחר כך = female"
+      }
+    ]
+  }

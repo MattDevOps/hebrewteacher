@@ -1,0 +1,28 @@
+{
+  "levels": {
+    "1": [
+      {
+        "id": "greetings",
+        "title": "Greetings",
+        "content": "\u05e9\u05dc\u05d5\u05dd = hello\n\u05de\u05d4 \u05e9\u05dc\u05d5\u05de\u05da = how are you\n\u05dc\u05d4\u05ea\u05e8\u05d0\u05d5\u05ea = goodbye"
+      },
+      {
+        "id": "basic_questions",
+        "title": "Basic Questions",
+        "content": "\u05de\u05d4 \u05d6\u05d4? = what is this\n\u05d0\u05d9\u05e4\u05d4 \u05d0\u05ea\u05d4? = where are you"
+      }
+    ],
+    "2": [
+      {
+        "id": "free_question",
+        "title": "Asking if someone is free",
+        "content": "\u05d0\u05ea\u05d4 \u05e4\u05e0\u05d5\u05d9? (male)\n\u05d0\u05ea \u05e4\u05e0\u05d5\u05d9\u05d4? (female)"
+      },
+      {
+        "id": "future_call",
+        "title": "Future tense call",
+        "content": "\u05d0\u05e0\u05d9 \u05d0\u05ea\u05e7\u05e9\u05e8 \u05d0\u05dc\u05d9\u05da \u05d0\u05d7\u05e8 \u05db\u05da = I will call you later"
+      }
+    ]
+  }
+}

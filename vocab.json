@@ -1,0 +1,22 @@
+{
+  "words": [
+    {
+      "hebrew": "\u05e9\u05dc\u05d5\u05dd",
+      "english": "hello",
+      "interval": 1,
+      "next_review": "2026-03-10"
+    },
+    {
+      "hebrew": "\u05d0\u05d7\u05e8 \u05db\u05da",
+      "english": "later",
+      "interval": 1,
+      "next_review": "2026-03-10"
+    },
+    {
+      "hebrew": "\u05de\u05d7\u05e8",
+      "english": "tomorrow",
+      "interval": 1,
+      "next_review": "2026-03-10"
+    }
+  ]
+}
